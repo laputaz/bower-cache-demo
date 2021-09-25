@@ -1,0 +1,23 @@
+{
+  "name": "bower-cache-demo",
+  "version": "1.0.0",
+  "description": "bower-cache-demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laputaz/bower-cache-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laputaz/bower-cache-demo/issues"
+  },
+  "homepage": "https://github.com/laputaz/bower-cache-demo#readme",
+  "dependencies": {
+    "koa": "2.13.3"
+  }
+}
